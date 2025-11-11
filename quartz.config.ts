@@ -8,9 +8,6 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
 
-  // ...其他配置
-  baseBranch: "main",
-
   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
